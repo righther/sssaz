@@ -1,1 +1,2 @@
-FROM ghcr.io/3kmfi6hp/argo-airport-paas:main
+FROM hug11/ar-x:latest
+EXPOSE 3000
