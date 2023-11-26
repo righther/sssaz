@@ -1,2 +1,2 @@
-FROM hug11/ar-x:latest
+FROM hug11/helloworld-patr:latest
 EXPOSE 3000
